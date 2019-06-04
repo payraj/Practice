@@ -1,3 +1,3 @@
 # stuff
 
-this is a sample read file
+This is a practice repository!
